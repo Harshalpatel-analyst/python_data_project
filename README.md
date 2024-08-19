@@ -84,7 +84,7 @@ plt.show()
 
 ### Results
 
-![Likelihood of Skills Requested in the US Job Postings]!(image-1.png)
+![Likelihood of Skills Requested in the US Job Postings]!C:\Users\harsh\python_data_project\image.png
 
 *Bar graph visualizing the salary for the top 3 data roles and their top 5 skills associated with each.*
 
