@@ -84,7 +84,7 @@ plt.show()
 
 ### Results
 
-[Likelihood of Skills Requested in the US Job Postings](![alt text](image.png))
+[Likelihood of Skills Requested in the US Job Postings]![alt text](image.png)
 
 *Bar graph visualizing the salary for the top 3 data roles and their top 5 skills associated with each.*
 
@@ -98,7 +98,8 @@ plt.show()
 
 To find how skills are trending in 2023 for Data Analysts, I filtered data analyst positions and grouped the skills by the month of the job postings. This got me the top 5 skills of data analysts by month, showing how popular skills were throughout 2023.
 
-View my notebook with detailed steps here: [3_Skills_Trend](3_Skills_Trend.ipynb).
+View my notebook with detailed steps here: [3_skills_trend.ipynb](2_Project Build/3_skills_trend.ipynb).
+
 
 ### Visualize Data
 
